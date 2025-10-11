@@ -106,7 +106,3 @@ The training progress, including per-epoch loss and accuracy, is logged in `resu
 3.  **Execute the Notebook**:
     *   Open `plain_34_layer_model.ipynb` in a Jupyter environment.
     *   Run all cells sequentially. The training process will begin and log its progress.
-
-## File Structure
-
-After running the script, the following directory structure will be created to store the results:
