@@ -106,3 +106,7 @@ The training progress, including per-epoch loss and accuracy, is logged in `resu
 3.  **Execute the Notebook**:
     *   Open `plain_34_layer_model.ipynb` in a Jupyter environment.
     *   Run all cells sequentially. The training process will begin and log its progress.
+   
+**Other Project Link**
+In this seperate project I have implemented Plain architecture, VGG19, ResNet and EfficientNet models.
+[Link](https://github.com/Aditya-043-nit/ImageNet100-Model-Comparison)
